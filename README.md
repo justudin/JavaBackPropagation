@@ -6,5 +6,5 @@ Clone, Fork, and Download this project, then import using eclipse IDE.
 
 ## License
 
-MIT &copy; [Muhammad Syafrudin](https://justudin.com) 2017
+&copy; 2017 [Muhammad Syafrudin](https://justudin.com)
 
