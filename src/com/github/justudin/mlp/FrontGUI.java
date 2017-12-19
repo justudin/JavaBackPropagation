@@ -348,20 +348,6 @@ public class FrontGUI {
 		btnTargetOutput.setBounds(466, 49, 111, 23);
 		frmBackPropagationAlgorithm.getContentPane().add(btnTargetOutput);
 
-		/*
-		 * JLabel lblTestingData = new JLabel("Testing data:");
-		 * lblTestingData.setBounds(22, 228, 111, 14);
-		 * frmBackPropagationAlgorithm.getContentPane().add(lblTestingData);
-		 * 
-		 * txtTestingData = new JTextField(); txtTestingData.setColumns(10);
-		 * txtTestingData.setBounds(175, 224, 281, 23);
-		 * frmBackPropagationAlgorithm.getContentPane().add(txtTestingData);
-		 * 
-		 * JButton btnTestingData = new JButton("Choose File");
-		 * btnTestingData.setBounds(466, 224, 111, 23);
-		 * frmBackPropagationAlgorithm.getContentPane().add(btnTestingData);
-		 */
-
 		JLabel lblResult = new JLabel("Training log:");
 		lblResult.setBounds(22, 124, 103, 14);
 		frmBackPropagationAlgorithm.getContentPane().add(lblResult);
@@ -369,30 +355,6 @@ public class FrontGUI {
 		JLabel lblResults = new JLabel("Testing Results:");
 		lblResults.setBounds(22, 316, 127, 14);
 		frmBackPropagationAlgorithm.getContentPane().add(lblResults);
-
-		/*
-		 * JLabel lblTargetOutputTesting = new
-		 * JLabel("Target Output Testing data:");
-		 * lblTargetOutputTesting.setBounds(22, 257, 143, 14);
-		 * frmBackPropagationAlgorithm
-		 * .getContentPane().add(lblTargetOutputTesting);
-		 * 
-		 * txtTargetTestingData = new JTextField();
-		 * txtTargetTestingData.setColumns(10);
-		 * txtTargetTestingData.setBounds(175, 253, 281, 23);
-		 * frmBackPropagationAlgorithm
-		 * .getContentPane().add(txtTargetTestingData);
-		 * 
-		 * JButton btnTargetTestingData = new JButton("Choose File");
-		 * btnTargetTestingData.setBounds(466, 253, 111, 23);
-		 * frmBackPropagationAlgorithm
-		 * .getContentPane().add(btnTargetTestingData);
-		 * 
-		 * JButton btnTestingTheNetwork = new JButton("Testing the network");
-		 * btnTestingTheNetwork.setBounds(175, 287, 185, 23);
-		 * frmBackPropagationAlgorithm
-		 * .getContentPane().add(btnTestingTheNetwork);
-		 */
 
 	}
 }
