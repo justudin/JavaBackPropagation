@@ -3,7 +3,7 @@ Neural Network - BackPropagation implemented in Java GUI Edit
 
 ## Screenshot
 
-![Screenshot](NN BackPropagation.PNG)
+![Screenshot](NNBackPropagation.png)
 
 ## How to use?
 Fork, Clone, and Download this project, then import using eclipse IDE.
