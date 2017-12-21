@@ -1,6 +1,5 @@
 ## JavaBackPropagation
-Neural Network - BackPropagation implemented in Java GUI Edit
-
+Neural Network - BackPropagation implemented in Java GUI-Based
 ## Screenshot
 
 ![Screenshot](NNBackPropagation.png)
